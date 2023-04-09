@@ -9,7 +9,7 @@ export default function FooterComponent() {
                 <div class="footer-top">
                     <div class="d-flex justify-content-center">
                         <div class="go-back">
-                            <a class="btn" href="javascript:void(0)" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:history.go(-1)"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Go Back</a>
+                            <a class="btn" href="##" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:history.go(-1)"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Go Back</a>
                         </div>
                     </div>
                 </div>

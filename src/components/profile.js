@@ -69,64 +69,64 @@ export default function ProfileComponent() {
                             <div class="profile-Masonry">
                                 <div class="card-columns gallery">
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26642.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26642.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26641.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26641.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26640.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26640.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26639.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26639.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26638.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26638.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26637.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26637.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26636.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26636.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26635.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26635.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26634.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26634.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26633.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26633.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26632.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26632.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26631.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26631.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26630.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26630.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26629.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26629.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26628.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26628.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26627.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26627.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26626.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26626.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26625.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26625.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26624.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26624.jpg" />
                                     </div>
                                     <div class="galleryItem card">
-                                        <img class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26623.jpg" />
+                                        <img alt=""class="card-img-top lazy img-fluid" src="https://wpcdn.starclinch.in/2019/03/26623.jpg" />
                                     </div>
                                 </div>
                             </div>

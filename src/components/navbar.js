@@ -17,7 +17,7 @@ export default function NavbarComponent() {
                 <div class="collapse navbar-collapse" id="navbarScroll">
                     <ul class="navbar-nav ms-5 me-auto my-lg-0 navbar-nav-scroll" style={{ bsScrollHeight: "100px" }}>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle me-5" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <a class="nav-link dropdown-toggle me-5" href="##" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Entertainers
                             </a>
                             <ul class="dropdown-menu submenu">
@@ -136,7 +136,7 @@ export default function NavbarComponent() {
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <a class="nav-link dropdown-toggle" href="##" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Join Community
                             </a>
                             <ul class="dropdown-menu submenu">

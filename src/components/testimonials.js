@@ -33,7 +33,7 @@ export default function TestimonialsComponent() {
                     <h3 class="title-bg-heading"><span>Brands we've worked with</span></h3>
                     <div class="our-running-brand">
                         <div class="our-brand-right">
-                            <img class="lazy img-fluid gm-observing gm-observing-cb" data-src="https://stcdn.starclinch.in/images/home/our_brand_logos_new.svg" loading="lazy" src="https://stcdn.starclinch.in/images/home/our_brand_logos_new.svg" />
+                            <img alt="" class="lazy img-fluid gm-observing gm-observing-cb" data-src="https://stcdn.starclinch.in/images/home/our_brand_logos_new.svg" loading="lazy" src="https://stcdn.starclinch.in/images/home/our_brand_logos_new.svg" />
                         </div>
                     </div>
                 </div>
